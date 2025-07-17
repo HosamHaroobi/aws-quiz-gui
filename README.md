@@ -22,3 +22,8 @@ A beautiful Python GUI quiz app built to help you master AWS certification topic
 
 ```bash
 python3 aws_quiz_app.py
+
+## Install It on Ubuntu
+
+wget https://github.com/HosamHaroobi/aws-quiz-gui/releases/download/v1.0/Velora-1.0.deb
+sudo apt install ./Velora-1.0.deb
