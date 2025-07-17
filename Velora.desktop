@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Velora
+Comment=Interactive AWS Quiz App
+Exec=python3 /opt/velora/aws_quiz_app.py
+Icon=/opt/velora/aws-quiz-logo.png
+Terminal=false
+Categories=Education;
+StartupNotify=true
