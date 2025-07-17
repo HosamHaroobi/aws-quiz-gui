@@ -1,0 +1,10 @@
+📝 Question Format
+
+Each question should follow this format:
+
+Question?|Option A|Option B|Option C|Option D|CorrectLetter
+
+Example:
+
+What does EC2 stand for?|Elastic Compute Cloud|Elastic Central Core|Edge Container Cloud|Elastic Control Center|A
+
